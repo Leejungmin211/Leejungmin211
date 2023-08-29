@@ -20,6 +20,8 @@
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
+<br/>
+
 <h3 align="center"> 🍭 About Me  </h3>
 <p align="center">
   <a href="https://myprofile-beige.vercel.app"><img src="https://img.shields.io/badge/Portfolio-E4405F?style=flat-square&logo=portfolio&logoColor=white&link=https://myprofile-beige.vercel.app"/></a>&nbsp
