@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JUNGMIN&fontSize=70&animation=twinkling)
+
 <br />
 <br />
+
 <h3 align="center"> ⚙️ Tech Stack </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp 
