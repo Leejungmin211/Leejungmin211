@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JUNGMIN&fontSize=70&animation=twinkling)
 
-<h3 align="center">🛠 Tech Stack </h3>
+<h3 align="center"> ⚙️ Tech Stack </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp 
@@ -17,13 +17,14 @@
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
-<h3 align="center"> About Me  </h3>
+<h3 align="center"> 🍭 About Me  </h3>
 <p align="center">
   <a href="https://myprofile-beige.vercel.app"><img src="https://img.shields.io/badge/Portfolio-E4405F?style=flat-square&logo=portfolio&logoColor=white&link=https://myprofile-beige.vercel.app"/></a>&nbsp
   <a href="https://velog.io/@jungmin211"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jungmin211"/></a>&nbsp
   <a href="mailto:jungmin.fe@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jungmin.fe@gmail.com"/></a>
 </p>
 <br>
+
 <!--
 **Leejungmin211/Leejungmin211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
