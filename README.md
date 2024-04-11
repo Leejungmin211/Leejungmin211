@@ -8,14 +8,12 @@
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-3-green?style=flat&logo" />
   <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white"/>
   <br />
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
