@@ -12,10 +12,11 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue-3-green?style=flat&logo" />
-  <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white"/>
+
   <br />
+  <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
 <br/>
